@@ -242,7 +242,7 @@ button[data-baseweb="tab"][aria-selected="true"] p { color: #1d4e9e !important; 
 }
 div.stButton > button {
     width:100%; border-radius:10px; border:1px solid #cfcac0; background:#fff;
-    color:#555; padding:0.6rem; font-weight:600;
+    color:#111; padding:0.6rem; font-weight:600;
 }
 div.stButton > button:hover { border-color:#2f78d6; color:#2f78d6; }
 </style>
